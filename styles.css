@@ -1,10 +1,11 @@
 back in Command Prompt: notepad style.css
 Paste:
 
-body{
-font-family: Arial; text-align:center;
+body {
+  font-family: Arial;
+  text-align: center;
 }
 
-h1{
-color: blue;
+h1 {
+  color: blue;
 }
